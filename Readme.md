@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Tatiana Kotova](https://up.htmlacademy.ru/javascript/14/user/137881).
-* Наставник: `Неизвестно`.
+* Наставник: ``.
 
 ---
 
